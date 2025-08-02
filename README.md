@@ -26,7 +26,7 @@ Implement a **Linear Regression** model to predict the prices of houses based on
 
 ### 📂 Files
 
-- `notebook.ipynb` — Main code.
+- `Task1.ipynb` — Main code.
 
 ## 📂 Dataset
 

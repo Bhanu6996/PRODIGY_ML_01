@@ -27,13 +27,15 @@ Implement a **Linear Regression** model to predict the prices of houses based on
 ### 📂 Files
 
 - `notebook.ipynb` — Main code.
-- `data/` — Dataset (if applicable).
-- `model.pkl` — Saved model (optional).
 
----
+## 📂 Dataset
+
+- Dataset used:  https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+- Download the CSV file and place it in the `data/` folder.
+- Make sure your notebook’s data path matches.
 
 ## ✅ How to Run
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/PRODIGY_ML_01.git
+   git clone https://github.com/Bhanu6996/PRODIGY_ML_01.git
